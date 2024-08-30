@@ -1,10 +1,15 @@
-# Transferable and Rapid Identification of Pogostemon Cablin Varieties Based on Hyperspectral Imaging and Deep Learning
+![image](https://github.com/user-attachments/assets/fbb8759e-93f5-4a0f-bec1-17079972e837)# Transferable and Rapid Identification of Pogostemon Cablin Varieties Based on Hyperspectral Imaging and Deep Learning
 
 This repository contains the code, data, and results related to the project on the identification of **Pogostemon cablin** varieties using hyperspectral imaging combined with deep learning techniques. The project aims to develop a fast, scalable, and transferable model for the classification and quality assessment of **Pogostemon cablin** varieties, leveraging the spectral characteristics captured by hyperspectral imaging.
 
 ## Project Overview
 
 **Pogostemon cablin**, commonly known as patchouli, is a plant widely used in traditional medicine and the fragrance industry. Accurate identification of its varieties is crucial for quality control and maximizing its therapeutic and commercial value. This project uses advanced hyperspectral imaging and deep learning methodologies to achieve rapid and accurate classification of **Pogostemon cablin** varieties.
+
+## Model Framework
+
+The model framework consists of four main modules: data preprocessing, feature extraction, model training, and evaluation. It combines the feature extraction capability of CNNs with the classification power of deep neural networks, significantly improving the accuracy of Pogostemon cablin hyperspectral image quality identification.
+
 
 ## Key Features
 
