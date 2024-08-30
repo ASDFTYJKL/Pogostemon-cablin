@@ -9,6 +9,7 @@ This repository contains the code, data, and results related to the project on t
 ## Model Framework
 
 The model framework consists of four main modules: data preprocessing, feature extraction, model training, and evaluation. It combines the feature extraction capability of CNNs with the classification power of deep neural networks, significantly improving the accuracy of Pogostemon cablin hyperspectral image quality identification.
+
 ![image](https://github.com/user-attachments/assets/fbb8759e-93f5-4a0f-bec1-17079972e837)
 
 ## Key Features
