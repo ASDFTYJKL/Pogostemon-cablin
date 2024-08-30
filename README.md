@@ -6,7 +6,7 @@ This repository contains the code, data, and results related to the project on t
 
 **Pogostemon cablin**, commonly known as patchouli, is a plant widely used in traditional medicine and the fragrance industry. Accurate identification of its varieties is crucial for quality control and maximizing its therapeutic and commercial value. This project uses advanced hyperspectral imaging and deep learning methodologies to achieve rapid and accurate classification of **Pogostemon cablin** varieties.
 
-### Key Features
+## Key Features
 
 - **Rapid Identification**: Utilizing hyperspectral imaging combined with deep learning allows for quick and accurate identification of different **Pogostemon cablin** varieties.
   
