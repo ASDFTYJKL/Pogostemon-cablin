@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fbb8759e-93f5-4a0f-bec1-17079972e837)# Transferable and Rapid Identification of Pogostemon Cablin Varieties Based on Hyperspectral Imaging and Deep Learning
+# Transferable and Rapid Identification of Pogostemon Cablin Varieties Based on Hyperspectral Imaging and Deep Learning
 
 This repository contains the code, data, and results related to the project on the identification of **Pogostemon cablin** varieties using hyperspectral imaging combined with deep learning techniques. The project aims to develop a fast, scalable, and transferable model for the classification and quality assessment of **Pogostemon cablin** varieties, leveraging the spectral characteristics captured by hyperspectral imaging.
 
@@ -9,7 +9,7 @@ This repository contains the code, data, and results related to the project on t
 ## Model Framework
 
 The model framework consists of four main modules: data preprocessing, feature extraction, model training, and evaluation. It combines the feature extraction capability of CNNs with the classification power of deep neural networks, significantly improving the accuracy of Pogostemon cablin hyperspectral image quality identification.
-
+![image](https://github.com/user-attachments/assets/fbb8759e-93f5-4a0f-bec1-17079972e837)
 
 ## Key Features
 
