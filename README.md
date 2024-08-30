@@ -22,7 +22,7 @@ Python 3.6.5 and TensorFlow (version 2.0.0-GPU)
 
 ## Download the model and run directly
 
-Since the model exceeded the limit, we have uploaded all the models and data to Zenodo.
+Since the model and data exceeded the limit, we have uploaded all the models and data to Zenodo.
 
 https://doi.org/10.5281/zenodo.13380534
 
