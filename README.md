@@ -10,7 +10,8 @@ Pogostemon cablin, commonly known as patchouli, is a plant widely used in tradit
 The model framework consists of four main modules: data preprocessing, feature extraction, model training, and evaluation. It combines the feature extraction capability of CNNs with the classification power of deep neural networks, significantly improving the accuracy of Pogostemon cablin hyperspectral image quality identification.
 
 ![image](https://github.com/user-attachments/assets/269b2c41-7feb-4381-aaad-d85c888998cc)
-<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/2687e50f-f4b2-483c-a607-242dbfd50e9f" />
+<img width="1106" height="1129" alt="image" src="https://github.com/user-attachments/assets/7f2a9e0d-9b5b-46a3-ada9-7177e531cfc7" />
+
 
 ## Key features
 
